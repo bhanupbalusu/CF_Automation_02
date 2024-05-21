@@ -8,7 +8,9 @@
 2. Verify Base Currency and Target Currency populate all the list of expected options.<br>
 3. Verify Convert functionality without ticking ‘Include commission in calculation’.<br>
 4. Verify Convert functionality with ticking ‘Include commission in calculation’ is working for different exchange & commission rate.<br>
-5. Verify for various conversion amounts within different commission ranges.<br> 6) Verify minimum commission value is applied correctly where-ever applicable.<br><br>
+5. Verify for various conversion amounts within different commission ranges.<br>
+
+6) Verify minimum commission value is applied correctly where-ever applicable.<br><br>
 
 <em>Negative Tests on UI:</em><br>
 
@@ -66,7 +68,10 @@
 1. Verify the user can interact the UI elements using keyboard.<br>
 2. Verify all the fields in the form are in the logical order.<br>
 3. Verify the fonts and colours of the form are readable and make it easier for user to navigate.<br>
-4. Verify the messages and instructions are clearly presented.<br> 5) Verify the elements on the form are interactive and can understand visually when there is change in state.<br> 6) Verify the form can take input values in different ways.<br><br><br>
+4. Verify the messages and instructions are clearly presented.<br>
+
+5) Verify the elements on the form are interactive and can understand visually when there is change in state.<br>
+6) Verify the form can take input values in different ways.<br><br><br>
 
 ### Q-5) If you were automating the testing of this form for regression test purposes, what would you hope the developer had done that would make the automation easier?
 
