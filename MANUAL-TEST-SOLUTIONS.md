@@ -41,7 +41,7 @@
 4. Verify providing currency names and codes greater than maximum allowed length.<br>
 5. Verify performing simultaneous CRUD operations.<br><br><br>
 
-###<p>Q-3) What tests would you perform to test the operations supported by the “Maintain commission rates” form?<br><br>
+### Q-3) What tests would you perform to test the operations supported by the “Maintain commission rates” form?
 
 <em>Positive Tests:</em><br>
 
@@ -59,7 +59,7 @@
 3. Verify with smallest and largest commission rates and ranges.<br>
 4. Verify performing simultaneous CRUD operations.<br><br><br>
 
-###<p>Q-4) What tests would you perform on the form above in order to test accessibility?<br><br>
+### Q-4) What tests would you perform on the form above in order to test accessibility?
 
 <em>Positive Tests:</em><br>
 
